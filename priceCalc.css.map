@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAOI,kBAAU;EACN,gBAAgB,EAAE,OAAO;EACzB,KAAK,EANF,OAAO;EAOV,aAAa,EATZ,GAAG;EAUJ,SAAS,EAAE,IAAI;EACf,OAAO,EAVN,GAAG;EAWJ,SAAS,EAbP,GAAG;EAcL,WAAW,EAAE,4BAA4B;EACzC,OAAO,EAAE,YAAY;AAGzB,aACA;EACI,UAAU,EAAE,mBAAsB",
+"sources": ["priceCalc.scss"],
+"names": [],
+"file": "priceCalc.css"
+}
